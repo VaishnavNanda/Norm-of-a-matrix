@@ -13,8 +13,8 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 ```
 '''
 Program to find 1-norm of a matrix.
-Developed by: A.Thiyagarajan
-RegisterNumber: 212222240110
+Developed by: S VAISHNAV NANDA
+RegisterNumber: 212222240112
 '''
 import numpy as np
 mat=np.array(eval(input()))
@@ -27,8 +27,8 @@ print(Norm_of_matrix)
 ```
 '''
 Program to find 2-norm of a matrix.
-Developed by: A.Thiyagarajan
-RegisterNumber: 212222240110
+Developed by: S VAISHNAV NANDA
+RegisterNumber: 212222240112
 '''
 import numpy as np
 mat=np.array(eval(input()))
@@ -42,8 +42,8 @@ print(Norm_of_matrix)
 
 '''
 Program to find infinity of a matrix.
-Developed by: A.Thiyagarajan
-RegisterNumber: 212222240110
+Developed by: S VAISHNAV NANDA
+RegisterNumber: 212222240112
 '''
 import numpy as np
 mat=np.array(eval(input()))
@@ -57,19 +57,19 @@ print(Norm_of_matrix)
 ### 1-Norm of a Matrix
 
 
-![n1](https://github.com/A-Thiyagarajan/Norm-of-a-matrix/assets/118707693/951b8d1d-cc86-4044-94b7-b7add94c2877)
+![n1](/n3.png)
 
 
 ### 2-Norm of a Matrix
 
 
 
-![n2](https://github.com/A-Thiyagarajan/Norm-of-a-matrix/assets/118707693/e0abda59-fc89-4a44-b828-34e373ae7f9d)
+![n3](n1.png)
 
 
 ### Infinity Norm of a Matrix
 
-![n3](https://github.com/A-Thiyagarajan/Norm-of-a-matrix/assets/118707693/e3ace661-05a7-40d0-8421-44ee13b35209)
+![n2](/n2.png)
 
 
 ## Result
