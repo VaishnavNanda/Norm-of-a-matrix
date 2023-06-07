@@ -64,7 +64,7 @@ print(Norm_of_matrix)
 
 
 
-![n3](n1.png)
+![n3](N1.png)
 
 
 ### Infinity Norm of a Matrix
